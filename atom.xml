@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>黄宝康</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-23T07:35:10.306Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>huangbaokang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章超链接</title>
+    <link href="http://yoursite.com/2020/05/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5/"/>
+    <id>http://yoursite.com/2020/05/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5/</id>
+    <published>2020-05-23T07:33:16.000Z</published>
+    <updated>2020-05-23T07:35:10.306Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://www.baidu.com" target="_blank" rel="noopener">百度一下</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://www.baidu.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度一下&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试图片</title>
+    <link href="http://yoursite.com/2020/05/23/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/"/>
+    <id>http://yoursite.com/2020/05/23/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</id>
+    <published>2020-05-23T06:47:00.000Z</published>
+    <updated>2020-05-23T06:59:43.899Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/pasted-0.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/pasted-0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="研究学习" scheme="http://yoursite.com/categories/%E7%A0%94%E7%A9%B6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="技术分享" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>练习测试</title>
+    <link href="http://yoursite.com/2020/05/23/%E7%BB%83%E4%B9%A0%E6%B5%8B%E8%AF%95-1/"/>
+    <id>http://yoursite.com/2020/05/23/%E7%BB%83%E4%B9%A0%E6%B5%8B%E8%AF%95-1/</id>
+    <published>2020-05-23T06:03:55.000Z</published>
+    <updated>2020-05-23T06:04:44.294Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hello-world-huangbaokang"><a href="#hello-world-huangbaokang" class="headerlink" title="hello world huangbaokang"></a>hello world huangbaokang</h1><ul><li>你好啊</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;hello-world-huangbaokang&quot;&gt;&lt;a href=&quot;#hello-world-huangbaokang&quot; class=&quot;headerlink&quot; title=&quot;hello world huangbaokang&quot;&gt;&lt;/a&gt;hello world hu
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2020/05/23/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2020/05/23/%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-05-23T05:37:07.000Z</published>
+    <updated>2020-05-23T05:40:51.533Z</updated>
+    
+    <content type="html"><![CDATA[<p>黄宝康的测试博客<br><img src="/images/m5.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;黄宝康的测试博客&lt;br&gt;&lt;img src=&quot;/images/m5.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/22/hello-world/"/>
+    <id>http://yoursite.com/2020/05/22/hello-world/</id>
+    <published>2020-05-22T06:55:45.198Z</published>
+    <updated>2020-05-22T06:55:45.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
